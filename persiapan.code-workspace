@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../persiapan"
+		},
+		{
+			"path": "../js"
+		},
+		{
+			"path": "../js week5"
+		},
+		{
+			"path": "../week 7"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "persiapan"
+	}
+}
